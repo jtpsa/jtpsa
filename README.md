@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jtpsa
-- 👀 I’m interested in HTML, CSS, SASS, Javascript, PHP, Python, MySQL, SQLite
+- 👀 I’m interested in HTML, CSS, SASS, Javascript, PHP, Python, MySQL, SQLite, Git
 - 🌱 I’m currently learning all of the above
 
 <!---
